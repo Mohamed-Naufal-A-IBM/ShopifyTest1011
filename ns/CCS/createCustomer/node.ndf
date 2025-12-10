@@ -786,7 +786,7 @@
     <value name="virtualServiceName">WmCloudStreams.RestVS</value>
     <value name="connectionName">Shopify_1011:Shopify_1011_Conn</value>
     <value name="connectionType">sagcloud</value>
-    <value name="connectorID">com.softwareag.cloudstreams.shopify_v201904</value>
+    <value name="connectorID">com.webmthods.cloudstreams.shopify_v201904</value>
     <record name="customData" javaclass="com.wm.util.Values">
       <array name="customInputHeaders" type="record" depth="1">
         <record javaclass="com.wm.util.Values">
