@@ -9,7 +9,7 @@
   <value name="cloudNodeVersion">1</value>
   <record name="cloudNodeProperties" javaclass="com.wm.util.Values">
     <number name="connectionNodeVersion" type="Integer">1</number>
-    <value name="connectorID">com.softwareag.cloudstreams.shopify_v201904</value>
+    <value name="connectorID">com.webmethods.cloudstreams.shopify_v201904</value>
     <value name="providerName">WmShopifyProvider</value>
     <value name="providerConnectionType">sagcloud</value>
     <record name="connectionGroupProperties" javaclass="com.wm.util.Values">
